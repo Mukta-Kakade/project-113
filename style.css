@@ -1,0 +1,9 @@
+ #result{
+    border: 2px dotted black;
+    width: 350px;
+    height: 300px; 
+  }
+
+  body{
+    background-color: rgb(235, 102, 233);
+  }
